@@ -45,6 +45,10 @@ Com um diferencial: toda ação gera **automaticamente um banner para divulgaç�
 
 ---
 
+### 🎨 Protótipo no Figma
+🔗 [Acessar](https://www.figma.com/design/72Qxzs3Zsgb19qJnphltzq/AD-Automate?node-id=107-1479&p=f&t=YVETNIwLmHEWRV48-0) 
+
+---
 ## 🎨 Identidade Visual
 
 ### Paleta de Cores
@@ -53,7 +57,4 @@ Azul Primário: #041E42
 Azul Ciano:  #00F6FF
 Branco:       #FFFFFF
 
----
 
-### 🎨 Protótipo no Figma
-🔗 [Acessar](https://www.figma.com/design/72Qxzs3Zsgb19qJnphltzq/AD-Automate?node-id=107-1479&p=f&t=YVETNIwLmHEWRV48-0) 
